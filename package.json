@@ -1,0 +1,16 @@
+{
+  "name": "node-talk",
+  "version": "1.0.0",
+  "description": "tech talk for my first NodeJs API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Dan Van Horn",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
